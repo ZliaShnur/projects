@@ -1,0 +1,6 @@
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\9. DirectoryTreeToXML\bin\Debug\_9.DirectoryTreeToXML.exe.config
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\9. DirectoryTreeToXML\obj\Debug\9. DirectoryTreeToXML.csprojResolveAssemblyReference.cache
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\9. DirectoryTreeToXML\bin\Debug\_9.DirectoryTreeToXML.exe
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\9. DirectoryTreeToXML\bin\Debug\_9.DirectoryTreeToXML.pdb
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\9. DirectoryTreeToXML\obj\Debug\_9.DirectoryTreeToXML.exe
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\9. DirectoryTreeToXML\obj\Debug\_9.DirectoryTreeToXML.pdb

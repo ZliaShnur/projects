@@ -1,0 +1,6 @@
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\3. ArtistsUsingXPath\bin\Debug\_3.ArtistsUsingXPath.exe.config
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\3. ArtistsUsingXPath\bin\Debug\_3.ArtistsUsingXPath.exe
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\3. ArtistsUsingXPath\bin\Debug\_3.ArtistsUsingXPath.pdb
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\3. ArtistsUsingXPath\obj\Debug\3. ArtistsUsingXPath.csprojResolveAssemblyReference.cache
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\3. ArtistsUsingXPath\obj\Debug\_3.ArtistsUsingXPath.exe
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\3. ArtistsUsingXPath\obj\Debug\_3.ArtistsUsingXPath.pdb

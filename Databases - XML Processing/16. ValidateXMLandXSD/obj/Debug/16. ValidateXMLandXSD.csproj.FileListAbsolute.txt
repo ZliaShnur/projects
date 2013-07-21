@@ -1,0 +1,5 @@
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\16. ValidateXMLandXSD\bin\Debug\_16.ValidateXMLandXSD.exe.config
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\16. ValidateXMLandXSD\bin\Debug\_16.ValidateXMLandXSD.exe
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\16. ValidateXMLandXSD\bin\Debug\_16.ValidateXMLandXSD.pdb
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\16. ValidateXMLandXSD\obj\Debug\_16.ValidateXMLandXSD.exe
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\16. ValidateXMLandXSD\obj\Debug\_16.ValidateXMLandXSD.pdb

@@ -1,0 +1,5 @@
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\14. TransformToHTML\bin\Debug\_14.TransformToHTML.exe.config
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\14. TransformToHTML\bin\Debug\_14.TransformToHTML.exe
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\14. TransformToHTML\bin\Debug\_14.TransformToHTML.pdb
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\14. TransformToHTML\obj\Debug\_14.TransformToHTML.exe
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\14. TransformToHTML\obj\Debug\_14.TransformToHTML.pdb

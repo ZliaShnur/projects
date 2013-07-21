@@ -1,0 +1,3 @@
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\12. OldAlbumsPrices\bin\Debug\_12.OldAlbumsPrices.exe.config
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\12. OldAlbumsPrices\obj\Debug\_12.OldAlbumsPrices.exe
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\12. OldAlbumsPrices\obj\Debug\_12.OldAlbumsPrices.pdb

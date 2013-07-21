@@ -1,0 +1,6 @@
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\2. ArtistsInCatalog\bin\Debug\_2.ArtistsInCatalog.exe.config
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\2. ArtistsInCatalog\bin\Debug\_2.ArtistsInCatalog.exe
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\2. ArtistsInCatalog\bin\Debug\_2.ArtistsInCatalog.pdb
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\2. ArtistsInCatalog\obj\Debug\2. ArtistsInCatalog.csprojResolveAssemblyReference.cache
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\2. ArtistsInCatalog\obj\Debug\_2.ArtistsInCatalog.exe
+C:\Users\ZliaShnur\Desktop\Telerik\Databases\17. XML-Processing-in-.NET\Homework\XMLParsers\2. ArtistsInCatalog\obj\Debug\_2.ArtistsInCatalog.pdb
