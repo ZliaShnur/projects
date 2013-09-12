@@ -1,0 +1,15 @@
+C:\Users\ZliaShnur\Desktop\Telerik\XAML\7. Behavior-Binding\Homework\Grr\Grr\bin\Debug\Grr.exe.config
+C:\Users\ZliaShnur\Desktop\Telerik\XAML\7. Behavior-Binding\Homework\Grr\Grr\bin\Debug\Grr.exe
+C:\Users\ZliaShnur\Desktop\Telerik\XAML\7. Behavior-Binding\Homework\Grr\Grr\bin\Debug\Grr.pdb
+C:\Users\ZliaShnur\Desktop\Telerik\XAML\7. Behavior-Binding\Homework\Grr\Grr\obj\Debug\Grr.csprojResolveAssemblyReference.cache
+C:\Users\ZliaShnur\Desktop\Telerik\XAML\7. Behavior-Binding\Homework\Grr\Grr\obj\Debug\MainWindow.g.cs
+C:\Users\ZliaShnur\Desktop\Telerik\XAML\7. Behavior-Binding\Homework\Grr\Grr\obj\Debug\App.g.cs
+C:\Users\ZliaShnur\Desktop\Telerik\XAML\7. Behavior-Binding\Homework\Grr\Grr\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ZliaShnur\Desktop\Telerik\XAML\7. Behavior-Binding\Homework\Grr\Grr\obj\Debug\Grr_MarkupCompile.cache
+C:\Users\ZliaShnur\Desktop\Telerik\XAML\7. Behavior-Binding\Homework\Grr\Grr\obj\Debug\Grr_MarkupCompile.lref
+C:\Users\ZliaShnur\Desktop\Telerik\XAML\7. Behavior-Binding\Homework\Grr\Grr\obj\Debug\MainWindow.baml
+C:\Users\ZliaShnur\Desktop\Telerik\XAML\7. Behavior-Binding\Homework\Grr\Grr\obj\Debug\Grr.g.resources
+C:\Users\ZliaShnur\Desktop\Telerik\XAML\7. Behavior-Binding\Homework\Grr\Grr\obj\Debug\Grr.Properties.Resources.resources
+C:\Users\ZliaShnur\Desktop\Telerik\XAML\7. Behavior-Binding\Homework\Grr\Grr\obj\Debug\Grr.csproj.GenerateResource.Cache
+C:\Users\ZliaShnur\Desktop\Telerik\XAML\7. Behavior-Binding\Homework\Grr\Grr\obj\Debug\Grr.exe
+C:\Users\ZliaShnur\Desktop\Telerik\XAML\7. Behavior-Binding\Homework\Grr\Grr\obj\Debug\Grr.pdb
