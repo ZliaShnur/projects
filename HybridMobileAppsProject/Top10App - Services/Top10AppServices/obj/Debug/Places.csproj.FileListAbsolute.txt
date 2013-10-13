@@ -1,0 +1,58 @@
+C:\Dropbox\Workspace\Hybrid-apps\Places\Places\obj\Debug\Places.csprojResolveAssemblyReference.cache
+C:\Dropbox\Workspace\Hybrid-apps\Places\Places\bin\Places.dll.config
+C:\Dropbox\Workspace\Hybrid-apps\Places\Places\bin\Places.dll
+C:\Dropbox\Workspace\Hybrid-apps\Places\Places\bin\Places.pdb
+C:\Dropbox\Workspace\Hybrid-apps\Places\Places\bin\EntityFramework.dll
+C:\Dropbox\Workspace\Hybrid-apps\Places\Places\bin\Newtonsoft.Json.dll
+C:\Dropbox\Workspace\Hybrid-apps\Places\Places\bin\Places.DataLayer.dll
+C:\Dropbox\Workspace\Hybrid-apps\Places\Places\bin\Places.Models.dll
+C:\Dropbox\Workspace\Hybrid-apps\Places\Places\bin\System.Net.Http.Formatting.dll
+C:\Dropbox\Workspace\Hybrid-apps\Places\Places\bin\System.Web.Http.dll
+C:\Dropbox\Workspace\Hybrid-apps\Places\Places\bin\System.Web.Http.WebHost.dll
+C:\Dropbox\Workspace\Hybrid-apps\Places\Places\bin\Places.DataLayer.pdb
+C:\Dropbox\Workspace\Hybrid-apps\Places\Places\bin\Places.Models.pdb
+C:\Dropbox\Workspace\Hybrid-apps\Places\Places\bin\EntityFramework.xml
+C:\Dropbox\Workspace\Hybrid-apps\Places\Places\bin\Newtonsoft.Json.xml
+C:\Dropbox\Workspace\Hybrid-apps\Places\Places\bin\System.Net.Http.Formatting.xml
+C:\Dropbox\Workspace\Hybrid-apps\Places\Places\bin\System.Web.Http.xml
+C:\Dropbox\Workspace\Hybrid-apps\Places\Places\bin\System.Web.Http.WebHost.xml
+C:\Dropbox\Workspace\Hybrid-apps\Places\Places\obj\Debug\Places.dll
+C:\Dropbox\Workspace\Hybrid-apps\Places\Places\obj\Debug\Places.pdb
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places\bin\Places.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places\bin\Places.pdb
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places\bin\EntityFramework.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places\bin\Newtonsoft.Json.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places\bin\Places.DataLayer.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places\bin\Places.Models.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places\bin\System.Net.Http.Formatting.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places\bin\System.Web.Http.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places\bin\System.Web.Http.WebHost.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places\bin\Places.DataLayer.pdb
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places\bin\Places.Models.pdb
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places\bin\EntityFramework.xml
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places\bin\Newtonsoft.Json.xml
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places\bin\System.Net.Http.Formatting.xml
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places\bin\System.Web.Http.xml
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places\bin\System.Web.Http.WebHost.xml
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places\obj\Debug\Places.csprojResolveAssemblyReference.cache
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places\obj\Debug\Places.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places\obj\Debug\Places.pdb
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places\obj\Debug\Places.csprojResolveAssemblyReference.cache
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places\obj\Debug\Places.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places\bin\Places.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places\bin\Places.pdb
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places\bin\EntityFramework.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places\bin\Newtonsoft.Json.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places\bin\Places.DataLayer.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places\bin\Places.Models.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places\bin\System.Net.Http.Formatting.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places\bin\System.Web.Http.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places\bin\System.Web.Http.WebHost.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places\bin\Places.DataLayer.pdb
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places\bin\Places.Models.pdb
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places\bin\EntityFramework.xml
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places\bin\Newtonsoft.Json.xml
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places\bin\System.Net.Http.Formatting.xml
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places\bin\System.Web.Http.xml
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places\bin\System.Web.Http.WebHost.xml
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places\obj\Debug\Places.pdb

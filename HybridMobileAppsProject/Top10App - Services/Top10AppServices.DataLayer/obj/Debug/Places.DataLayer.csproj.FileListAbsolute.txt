@@ -1,0 +1,20 @@
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places.DataLayer\bin\Debug\Places.DataLayer.dll.config
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places.DataLayer\bin\Debug\Places.DataLayer.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places.DataLayer\bin\Debug\Places.DataLayer.pdb
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places.DataLayer\bin\Debug\Places.Models.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places.DataLayer\bin\Debug\Places.Models.pdb
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places.DataLayer\obj\Debug\Places.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places.DataLayer\obj\Debug\Places.DataLayer.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places.DataLayer\obj\Debug\Places.DataLayer.pdb
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places.DataLayer\bin\Debug\Places.DataLayer.dll.config
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places.DataLayer\bin\Debug\Places.DataLayer.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places.DataLayer\bin\Debug\Places.DataLayer.pdb
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places.DataLayer\bin\Debug\Places.Models.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places.DataLayer\bin\Debug\Places.Models.pdb
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places.DataLayer\obj\Debug\Places.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places.DataLayer\obj\Debug\Places.DataLayer.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places.DataLayer\obj\Debug\Places.DataLayer.pdb

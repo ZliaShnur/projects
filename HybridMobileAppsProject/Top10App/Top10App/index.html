@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Top10</title>
+        <meta charset="utf-8" />
+        <script src="kendo/js/jquery.min.js"></script>
+        <script src="kendo/js/kendo.mobile.min.js"></script>
+        <script src="kendo/js/console.js"></script>
+        <link href="kendo/styles/kendo.common.min.css" rel="stylesheet" />
+        <link href="kendo/styles/kendo.mobile.all.min.css" rel="stylesheet" />
+        <link href="styles/main.css" rel="stylesheet" />
+
+    </head>
+
+<body>        
+    <div id="mainView" data-role="view" data-title="Top10App">
+        <header data-role="header">
+            <div data-role="navbar" id="main-navbar">
+                <span data-role="view-title"></span>            
+            </div>
+        </header>
+        <div class="head">&nbsp;</div>
+        <h2>Welcome to "Top 10" App</h2>
+        <p>World is full of interesting facts.</p>
+        <ul data-role="listview" data-style="inset" data-type="group">
+            <li>
+                <ul>
+                    <li><a href="Views/categories.html">Go to categories</a></li>
+                </ul>
+            </li>
+        </ul>
+    </div>    
+    
+    <div data-role="layout" data-id="mobile-view">
+        <header data-role="header">
+            <div data-role="navbar">
+                <a class="nav-button" data-align="left" data-role="backbutton">Back</a>
+                <span data-role="view-title"></span>            
+            </div>
+        </header>
+    </div>
+   
+    <script>
+        (function (global) {
+            var categoryViewModel,
+                app = global.app = global.app || {};
+
+            categoryViewModel = kendo.data.ObservableObject.extend({
+                categoryDataSource: null,
+
+                init: function () {
+                    var that = this,
+                        categories;
+
+                    kendo.data.ObservableObject.fn.init.apply(that, []);
+
+                    categories = new kendo.data.DataSource({
+                        transport: {
+                            read: {
+                                url: "http://localhost:62354/api/categories",
+                                dataType: "json"
+                            }
+                        }
+                    });
+
+                    that.set("categoryDataSource", categories);
+                }
+            });
+
+            app.categoryService = {
+                viewModel: new categoryViewModel()
+            };
+        })(window);
+    </script>
+
+    <script>
+        window.kendoMobileApplication = new kendo.mobile.Application(document.body);
+    </script>
+</body>
+</html>
+        

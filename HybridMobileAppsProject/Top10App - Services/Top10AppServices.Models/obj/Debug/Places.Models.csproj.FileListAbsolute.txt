@@ -1,0 +1,10 @@
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places.Models\bin\Debug\Places.Models.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places.Models\bin\Debug\Places.Models.pdb
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places.Models\obj\Debug\Places.Models.csprojResolveAssemblyReference.cache
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places.Models\obj\Debug\Places.Models.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\8. Demo application with PhoneGap\Places-Services\Places\Places.Models\obj\Debug\Places.Models.pdb
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places.Models\bin\Debug\Places.Models.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places.Models\bin\Debug\Places.Models.pdb
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places.Models\obj\Debug\Places.Models.csprojResolveAssemblyReference.cache
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places.Models\obj\Debug\Places.Models.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places.Models\obj\Debug\Places.Models.pdb

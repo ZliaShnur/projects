@@ -1,0 +1,23 @@
+﻿<div id="main-category-view" 
+             data-role="view" 
+             data-layout="mobile-view"
+             data-title="Categories" 
+             data-model="app.categoryService.viewModel">
+    
+            <div data-role="content" class="category">
+                <div data-role="scroller">                    
+                    <ul class="main-categories-list" 
+                        data-role="listview" 
+                        data-bind="source: categoryDataSource" 
+                        data-template="main-category-template">                    
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+<script type="text/x-kendo-tmpl" id="main-category-template">
+    <a href="Views/subcategoriesView.html?category=#: name #" class="parent">
+            <span class="category-image" style="background-image: url('http://demos.kendoui.com/content/mobile/cities/220/sydney.jpg')"></span>
+            <h2 class="category-name-h2"> #: name # </h2>            
+        </a>    
+</script>

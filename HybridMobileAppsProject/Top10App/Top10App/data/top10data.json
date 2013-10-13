@@ -1,0 +1,30 @@
+﻿[{
+"CategoryId":2,
+"CategoryName":"People",
+"Subcategories":[{
+	"CategoryId":21,
+	"CategoryName":"Peace",
+	"Subcategories": []
+	},{
+	"CategoryId":22,
+	"CategoryName":"Medicine",
+	"Subcategories": []
+	}],
+"BelongsTo":null
+},{
+"CategoryId":3,
+"CategoryName":"Animals",
+"Subcategories":[{
+	"CategoryId":31,
+	"CategoryName":"Dogs",
+	"Subcategories": []
+	},{
+	"CategoryId":32,
+	"CategoryName":"Cats",
+	"Subcategories": []
+	}],
+"BelongsTo":null},{
+"CategoryId":4,
+"CategoryName":"Cars",
+"Subcategories":[],
+"BelongsTo":null}]

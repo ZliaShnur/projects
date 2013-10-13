@@ -1,0 +1,8 @@
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places.Models\bin\Debug\Top10AppServices.Models.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places.Models\bin\Debug\Top10AppServices.Models.pdb
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places.Models\obj\Debug\Top10AppServices.Models.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Places.Models\obj\Debug\Top10AppServices.Models.pdb
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Top10AppServices.Models\bin\Debug\Top10AppServices.Models.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Top10AppServices.Models\bin\Debug\Top10AppServices.Models.pdb
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Top10AppServices.Models\obj\Debug\Top10AppServices.Models.dll
+C:\Users\ZliaShnur\Desktop\Telerik\Hybrid Mobile Apps\2013\Lectures\9. Final Course Project\Top10App - Services\Top10AppServices.Models\obj\Debug\Top10AppServices.Models.pdb
