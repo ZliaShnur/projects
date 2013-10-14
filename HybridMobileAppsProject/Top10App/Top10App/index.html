@@ -13,7 +13,7 @@
     </head>
 
 <body>        
-    <div id="mainView" data-role="view" data-title="Top10App">
+    <div id="mainView" data-role="view" data-title="Top10App" >
         <header data-role="header">
             <div data-role="navbar" id="main-navbar">
                 <span data-role="view-title"></span>            
@@ -31,7 +31,16 @@
         </ul>
     </div>    
     
-    <div data-role="layout" data-id="mobile-view">
+    <div data-role="layout" data-id="layout" data-platform="ios">
+        <header data-role="header">
+            <div data-role="navbar">
+                <a class="nav-button" data-align="left" data-role="backbutton">Back</a>
+                <span data-role="view-title"></span>            
+            </div>
+        </header>
+    </div>
+
+    <div data-role="layout" data-id="layout" data-platform="android">
         <header data-role="header">
             <div data-role="navbar">
                 <a class="nav-button" data-align="left" data-role="backbutton">Back</a>

@@ -1,6 +1,6 @@
 ﻿<div id="subcategory-view" 
              data-role="view" 
-             data-layout="mobile-view"
+             data-layout="layout"
              data-title="Subcategories" 
              data-model="app.categoryService.viewModel">
     
@@ -9,7 +9,7 @@
                     <ul class="main-categories-list" 
                         data-role="listview" 
                         data-source="subcategories" 
-                        data-template="main-category-template">                    
+                        data-template="sub-category-template">                    
                     </ul>
                 </div>
             </div>
@@ -27,9 +27,9 @@
     });
 </script>
 
-<script type="text/x-kendo-tmpl" id="main-category-template">
-    <a href="Views/storiesView.html?subcategory=#: name #" class="parent">
-            <span class="category-image" style="background-image: url('http://demos.kendoui.com/content/mobile/cities/220/sydney.jpg')"></span>
-            <h2 class="category-name-h2"> #: name # </h2>               
-        </a>    
+<script type="text/x-kendo-tmpl" id="sub-category-template">    
+    <a href="Views/storiesView.html?subcategory=#: name #">
+    <span class="category-image" style="background-image: url('http://demos.kendoui.com/content/mobile/cities/220/sydney.jpg')"></span>
+            <h2 class="category-name-h2"> #: name # </h2>
+    </a>
 </script>

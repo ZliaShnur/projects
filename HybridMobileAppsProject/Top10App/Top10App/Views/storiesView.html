@@ -1,12 +1,14 @@
-﻿<div id="story-view" 
+﻿
+
+<div id="story-view" 
              data-role="view" 
-             data-layout="mobile-view"
+             data-layout="layout"
              data-title="Story" 
              data-model="app.categoryService.viewModel">
     <div data-role="content" class="category">
             <div class="titanic_a">&nbsp;</div>
 
-            <h2>Titanic Belfast</h2>
+            <h2># subcategoryName #</h2>
 
             <div data-role="scroller" class="scroller-content">
                 <p>
@@ -48,3 +50,7 @@
         </div>
     </div>
 </div>
+
+<script>
+    var subcategoryName = location.href.split("=")[1];
+</script>
